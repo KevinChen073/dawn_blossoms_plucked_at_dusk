@@ -1,0 +1,22 @@
+这里收集一些名词
+
+# Git
+- rebase：下游分支更新到最新的主干分支
+- merge：下游分支合并到上游分支（主干）
+- pull\push\checkout\add\commit
+
+# React
+- vDom、Reconciler、Render
+- Hooks
+- hydrate
+- redfux
+
+# webpack
+- AST
+- HMR
+- entry\output\plugins\loader
+
+# 架构
+- Solid原则
+- 迪米特原则
+- 设计模式
